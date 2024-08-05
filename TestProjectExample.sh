@@ -5,3 +5,6 @@ b=10
 
 #Addition
 x=a+b
+
+#Division
+x=b/a
